@@ -1,3 +1,9 @@
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+
 # Automated Network Scanner
 
 **Automated Network Scanner** is a Python-based tool designed to perform fast and efficient network scans using **Masscan** and **Nmap**. This tool allows users to execute a variety of scan types, from basic ping sweeps to more advanced vulnerability and protocol scans. It integrates both Masscan and Nmap to help security professionals and network administrators assess the security of their networks.
